@@ -1,0 +1,6 @@
+OTP genrater of 6 digit 
+
+
+user input : a , b , c 
+35 > a + b+ c
+35 > a + b
