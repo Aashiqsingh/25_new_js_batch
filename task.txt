@@ -9,3 +9,11 @@ user input : a , b , c
 
 for loop : 5 task 
 while loop : 5 task
+
+
+userName : aashiqsingh , amitshah
+
+
+@aashiqsingh11
+
+@amitshah8
