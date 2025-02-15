@@ -21,6 +21,7 @@ JavaScript have no dataType
 where javaScript run?
 - browser / client side 
 
+
 Javascript devloped by breden eich by netscap navigator in 1995.
 JavaScript engins:
 
@@ -41,6 +42,6 @@ there are three keyword here.
 3. const -- block scope and can't change the value 
 
 {
-
+        let 
 }
 
