@@ -7,8 +7,8 @@
 // console.log(x);
 
 
-var name = prompt("Enter your name :");
-console.log(name);
+// var name = prompt("Enter your name :");
+// console.log(name);
 
 
 
@@ -16,3 +16,7 @@ console.log(name);
 
 // take two value from user :
 // add , sub , mul , div 
+
+
+// chose = prompt("enter your choice")
+

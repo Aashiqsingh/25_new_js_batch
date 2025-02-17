@@ -1,0 +1,10 @@
+function --> code reusiblity 
+
+There are four types.
+1. without return without argument
+2. without return with argument 
+3. with return with argument
+4. with return without argument
+
+
+function --> function keyword 

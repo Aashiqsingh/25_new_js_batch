@@ -37,12 +37,25 @@
 // a = 20;
 // console.log("value of a = ",a);
 
-const a = 10;
-console.log("value of a = ",a);
+// const a = 10;
+// console.log("value of a = ",a);
 
-a = 20;
-console.log("value of a = ",a);
+// a = 20;
+// console.log("value of a = ",a);
 
 
+
+{
+    var a = 10;
+    console.log(a);
+
+    let b = 20;
+    console.log(b);
+    
+    
+}
+
+console.log(a);
+console.log(b);
 
 
