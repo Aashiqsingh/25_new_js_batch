@@ -1,0 +1,8 @@
+JSON --> JavaScript object notation 
+
+var student = {
+    roll:101,
+    name:"ankit",
+    isPresent:true,
+    age:18,
+}
