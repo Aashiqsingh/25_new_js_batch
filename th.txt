@@ -13,7 +13,8 @@ ex : python , javascript , html
     - when u take variable u need to take datatype
 2. dynamically
   - 
-javaScript have no datatype 
+  
+  javaScript have no datatype 
 
 a = 10 
 

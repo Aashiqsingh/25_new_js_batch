@@ -10,9 +10,15 @@ var student = {
 console.log(student);
 // console.log(typeof student);
 
+// console.log(student.name);
+// console.log(student.email);
+// console.log(student.mobile);
+
 console.log(student.name);
 console.log(student.email);
-console.log(student.mobile);
+
+console.log(typeof student);
+
 
 
 

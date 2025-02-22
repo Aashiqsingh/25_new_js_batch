@@ -27,16 +27,18 @@ function test()
     return "test function call...";
 }
 
-// var x = test();
+// var x = test()
 // console.log(x);
-
 
 // console.log(test());
 
-// function mul(x,y,z)
-// {
-//     return x*y*z;
-// }
+// 4. with return with argument
 
-// var x = mul(2,3,5);
-// console.log("Multiply = ",x);
+
+function mul(x,y,z)
+{
+    return x*y*z;
+}
+
+var x = mul(2,3,5);
+console.log("Multiply = ",x);

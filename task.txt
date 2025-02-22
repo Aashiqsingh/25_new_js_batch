@@ -17,3 +17,12 @@ userName : aashiqsingh , amitshah
 @aashiqsingh11
 
 @amitshah8
+
+
+task : 
+
+json :- 5 
+
+normal function :- prime number , reverse number , odd even 
+
+Arrow function : area of circle , rectangle , triangle , pallindrome 

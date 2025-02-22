@@ -3,15 +3,15 @@
 //     console.log("Hello, World!");
 // }
 
-
+const pi = 3.14;
 
 const demo = ()=>{
-    console.log("function call....");
+    console.log("Hello, World!");
     
 }
 
 
-// demo()
+demo()
 
 
 // const pi = 3.14;
@@ -23,14 +23,12 @@ const demo = ()=>{
 // var x = isOdd(16)
 // console.log(x ? "Odd" : "Even");
 
-// const isEven = (x)=>{
-
-//     return x % 2 === 0;
-// }
-
-
 const isEven = (x)=> x % 2 === 0;
 
 
+
+// const isEven = (x)=> x % 2 === 0;
+
+
 var x = isEven(16)
-console.log(x ? "Even" : "odd");
+console.log(x == true ? "Even" : "odd");
