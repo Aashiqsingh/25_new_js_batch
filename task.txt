@@ -26,3 +26,55 @@ json :- 5
 normal function :- prime number , reverse number , odd even 
 
 Arrow function : area of circle , rectangle , triangle , pallindrome 
+
+
+
+-----------------------------------------------------------------
+Bank task :
+
+var pin = 6354;
+var avlbal = 35000;
+Atm Bank of india
+
+fun checkBal()
+{
+	return Avlbal	
+}
+
+func withdra()
+{
+	Enter amoutn :
+	amount < avlbal
+	{
+		Succefully withdrwa
+		chekbal()
+	}
+	else{
+		insufficenit bal
+	}	
+}
+fun deposit()
+{
+	Enter amount:
+	Succefully deposited 
+	
+}
+Do u want to enter in atm?
+{
+	Accout no: 8547823;
+	Upin = pin?
+	{
+		1. withdrwa
+		2. deposit
+		3. check bal
+		Enet yu choice
+			
+	}
+	else{
+		incorrect pasd
+	}
+
+}
+else{
+	thankyou for visitign...
+}
