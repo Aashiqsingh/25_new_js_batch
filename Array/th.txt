@@ -1,0 +1,6 @@
+Array :- Array is a collection of data
+
+
+Array : hybrid data strored 
+ arr = ["ram",213,44,5.6,true]
+
