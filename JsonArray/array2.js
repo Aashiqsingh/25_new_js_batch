@@ -45,11 +45,36 @@ var products = [
         }
     ]
 
+    var FindWhiteClr = products.filter((prod)=> prod.color.includes("white"))
+    console.log(FindWhiteClr);
+    
+
+
+
+
     // console.log(products);
 
-    var mobileCategory = products.filter((prod)=>{
-        return prod.category === "Mobile"
-    })
+    // var mobileCategory = products.filter((prod)=>{
+    //     return prod.category === "Mobile"
+    // })
     
-    console.log(mobileCategory);
+    // console.log(mobileCategory);
+
+    // var x = products.reduce((sum, prod) => {
+    //     return sum + prod.price
+    // }, 0)
+
+    // console.log(x);
+// products.forEach((prod)=>{
+//         if(prod.isAvailable == true)
+//          {
+//              console.log(prod);
+             
+//          }
+//      })
+
+
+     
+
+    
     
