@@ -1,0 +1,15 @@
+DOM -- > DOcument object model
+
+Javascript : to manipulate the dom.
+
+idetintify :
+1. id  -- uniqui
+2. class  -- multiple
+3. tagname - multiple
+4. name -- multiple
+5. querryselector
+
+
+Event :
+1. onclick 
+2. ondblclick
