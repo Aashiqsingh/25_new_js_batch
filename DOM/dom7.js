@@ -23,3 +23,9 @@ function text(){
     // output.innerHTML = txt.value
     
 }
+
+function change(){
+    // alert("change...")
+    console.log("change..");
+    
+}
