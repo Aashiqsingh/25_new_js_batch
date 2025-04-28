@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="./dropdown.js"></script>
 </head>
 <body>
     
     <select name="colors" id="color" onchange="changeColor()">
+        <option value="">Select color</option>
         <option value="red">Red</option>
         <option value="green">Green</option>
         <option value="yellow">Yellow</option>
@@ -18,10 +18,21 @@
     </select>
 
 
+    <select name="" id="shape" onchange="changeShape()">
+        <option value="">Select shape</option>
+        <option value="10%">10%</option>
+        <option value="20%">20%</option>
+        <option value="30%">30%</option>
+        <option value="40%">40%</option>
+        <option value="50%">50%</option>
+    </select>
+
+
     <div id="mydiv">
 
     </div>
 
+    <script src="./dropdown.js"></script>
 
 </body>
 </html>
