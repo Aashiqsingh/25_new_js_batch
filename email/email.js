@@ -13,7 +13,7 @@ const sentEmail = ()=>{
     }
 
     const serviceId = "service_fsouq7p";
-    const templateId = "template_xkxwe24";
+    const templateId = "template_1jpdy1b";
 
     emailjs.send(serviceId,templateId,params).then((res)=>{
         console.log("res....",res);
